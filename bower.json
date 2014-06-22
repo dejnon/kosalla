@@ -1,0 +1,17 @@
+{
+  "name": "kosalla",
+  "version": "0.0.1",
+  "dependencies": {
+    "easeljs": "*",
+    "createjs-tweenjs": "*",
+    "createjs-preloadjs": "*",
+    "dat.gui": "*",
+    "greensock": "*",
+    "lodash": "*",
+    "backbone": "*",
+    "jquery.transit": "*",
+    "d3": "*",
+    "raphael": "*",
+    "jquery": ">2.0.0"
+  }
+}
